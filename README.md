@@ -365,6 +365,26 @@ Key outcomes:
 
 ---
 
+## 📊 Key Visualizations
+
+### Customer Churn Distribution
+![Churn Distribution](visuals/churn_distribution.png)
+
+### Feature Importance (XGBoost)
+![Feature Importance](visuals/feature_importance.png)
+
+### Frequency vs Churn
+![Frequency vs Churn](visuals/frequency_vs_churn.png)
+
+### Recency vs Churn
+![Recency vs Churn](visuals/recency_vs_churn.png)
+
+### Recency-Frequency Segmentation
+![RFM Segmentation](visuals/recency_frequency_segmentation.png)
+
+### Customer Risk Segmentation
+![Risk Segmentation](visuals/risk_segmentation.png)
+
 # 👩‍💻 Author
 
 Sanduni Pathiraja  
