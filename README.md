@@ -385,9 +385,4 @@ Key outcomes:
 ### Customer Risk Segmentation
 ![Risk Segmentation](visuals/risk_segmentation.png)
 
-# 👩‍💻 Author
 
-Sanduni Pathiraja  
-Aspiring Data Scientist  
-
-Focused on transforming data into meaningful business insights through analytics and machine learning.
